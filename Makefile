@@ -10,4 +10,4 @@ sameshi: main.c sameshi.h
 run: sameshi
 	./sameshi
 clean:
-	rm -f sameshi
+	rm -f sameshi        
